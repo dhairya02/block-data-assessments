@@ -68,7 +68,7 @@ Block operates in the renovation market, which means that we must maintain a bal
    - 20% at deal close
    - 40% at the halfway point
    - 40% at completion 
-How much revenue are we recognizing per month? For a timeframe, use the earliest project and6 months after the most recently closed project as bookends.
+   - How much revenue are we recognizing per month? For a timeframe, use the earliest project and 6 months after the most recently closed project as bookends.
 
 
 2. How much quarterly business has each Source generated for Block? Which sources are performing above or below their historical monthly benchmarks? 
