@@ -10,7 +10,7 @@ Directions on how to do so can be found here: [Get Docker](https://docs.docker.c
 1. Get this project on your computer. We suggest you 
     - Make a directory on your computer
     - Run `git init` in that directory via your terminal
-    - Run `git clone git@github.com:block-renovation/block-data-assessments.git`. This will create a copy of the project on your computer.
+    - Run `git clone git@github.com:block-renovation/block-data-assessments`. This will create a copy of the project on your computer.
 2. To run the project:
     - Ensure Docker is running. Follow the directions linked above.
     - From the root of your copy of this repo, run `make docker-up-build`. This will build the Docker image and start the server. It may take a minute or so to startup fully. 
